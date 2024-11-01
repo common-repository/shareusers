@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin de ShareUsers para WordPress, v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-09 17:28+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marcos Gil Fuertes <marcos.gil.fuertes@gmail.com>\n"
+"Language-Team: Niuma <niuma@niumasoft.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\blog.marcis.es\\wp-content\\plugins\\shareusers\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: shareusers-manage.php:26
+#: shareusers.php:249
+msgid "ShareUsers: Keywords Management"
+msgstr "ShareUsers: Gesti&oacute;n de Palabras Clave"
+
+#: shareusers-manage.php:29
+#: shareusers-options.php:29
+msgid "Keywords updated"
+msgstr "Palabras clave actualizadas"
+
+#: shareusers-manage.php:29
+#: shareusers-options.php:29
+msgid "Keywords not updated"
+msgstr "No se han podido actualizar las palabras clave"
+
+#: shareusers-manage.php:30
+msgid "Keywords removed"
+msgstr "Palabras clave eliminadas"
+
+#: shareusers-manage.php:30
+msgid "Keywords not removed"
+msgstr "No se han podido eliminar las palabras clave"
+
+#: shareusers-manage.php:38
+msgid "Keyword"
+msgstr "Palabra Clave"
+
+#: shareusers-manage.php:39
+msgid "Description"
+msgstr "Descripci&oacute;n"
+
+#: shareusers-manage.php:40
+msgid "Language"
+msgstr "Idioma"
+
+#: shareusers-manage.php:47
+msgid "The keyword will be removed. Are you sure?"
+msgstr "La palabra clave ser&aacute; eliminada. &iquest;Est&aacute; seguro?"
+
+#: shareusers-manage.php:47
+msgid "Remove"
+msgstr "Borrar"
+
+#: shareusers-manage.php:52
+msgid "No keywords found"
+msgstr "No hay palabras clave"
+
+#: shareusers-manage.php:61
+msgid "Update keywords"
+msgstr "Actualizar las palabras clave"
+
+#: shareusers-manage.php:62
+msgid "All the keywords will be deleted and loaded again from ShareUsers. Do you want to continue?"
+msgstr "Se borrar&aacute;n todas las palabras y se recargar&aacute;n las existentes en ShareUsers. &iquest;Desea continuar?"
+
+#: shareusers-manage.php:64
+msgid "Remove keywords"
+msgstr "Borrar todas las palabras clave"
+
+#: shareusers-manage.php:64
+msgid "All the keywords will be deleted. Do you want to continue?"
+msgstr "Se borrar&aacute;n todas las palabras clave. &iquest;Est&aacute; seguro?"
+
+#: shareusers-options.php:25
+#: shareusers.php:248
+msgid "ShareUsers Options"
+msgstr "ShareUsers: Opciones"
+
+#: shareusers-options.php:27
+msgid "Options has been saved"
+msgstr "Opciones guardadas"
+
+#: shareusers-options.php:45
+msgid "Plugin configuration"
+msgstr "Configuraci&oacute;n del plugin"
+
+#: shareusers-options.php:49
+msgid "Remote update frequence"
+msgstr "Frecuencia de actualizaci&oacute;n remota"
+
+#: shareusers-options.php:53
+msgid "Never"
+msgstr "Nunca"
+
+#: shareusers-options.php:54
+msgid "Only once (on install)"
+msgstr "S&oacute;lo una vez (durante la instalaci&oacute;n)"
+
+#: shareusers-options.php:55
+msgid "Manually"
+msgstr "Manual"
+
+#: shareusers-options.php:55
+msgid "Update now"
+msgstr "Actualizar ahora"
+
+#: shareusers-options.php:56
+msgid "Once a day (default and recommended)"
+msgstr "Una vez al d&iacute;a (opci&oacute;n recomendada por defecto)"
+
+#: shareusers-options.php:57
+msgid "Every"
+msgstr "Cada"
+
+#: shareusers-options.php:57
+msgid "minutes"
+msgstr "minutos"
+
+#: shareusers-options.php:58
+msgid "Always (NOT recommended, very slow)"
+msgstr "Siempre (NO recomendada, muy lenta)"
+
+#: shareusers-options.php:69
+msgid "Auto link"
+msgstr "Autoenlazado"
+
+#: shareusers-options.php:73
+msgid "Link keywords automatically"
+msgstr "Enlaza las palabras clave autom&aacute;ticamente"
+
+#: shareusers-options.php:74
+#, php-format
+msgid "Example: If you are suscribed to the keyword \"WordPress\" and the word \"wordpress\" appears in your blog, this function will replace \"wordpress\" with a link to the keyword \"WordPress\". (%s)"
+msgstr "Ejemplo: Tienes una palabra clave llamada \"WordPress\" y en el contenido de tu entrada aparece \"wordpress\", esta funci&oacute;n sustituir&aacute; \"wordpress\" por un enlace a la palabra clave \"wordpress\". (%s)"
+
+#: shareusers-options.php:81
+msgid "Link options"
+msgstr "Opciones de los enlaces"
+
+#: shareusers-options.php:85
+msgid "Link style"
+msgstr "Estilo de los enlaces"
+
+#: shareusers-options.php:89
+msgid "No style"
+msgstr "No aplicar ning&uacute;n estilo"
+
+#: shareusers-options.php:92
+msgid "Apply this"
+msgstr "Aplicar el siguiente"
+
+#: shareusers-options.php:96
+msgid "Define the style"
+msgstr "Definir el estilo"
+
+#: shareusers-options.php:98
+msgid "Link color"
+msgstr "Color del enlace"
+
+#: shareusers-options.php:105
+msgid "Underline"
+msgstr "Subrayado"
+
+#: shareusers-options.php:111
+msgid "Link destination"
+msgstr "Destino de los enlaces"
+
+#: shareusers-options.php:115
+msgid "Open links in new window"
+msgstr "Abrir los enlaces en una ventana nueva"
+
+#: shareusers-options.php:123
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
